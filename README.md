@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">💬 Ask me about Web Development & Full-Stack Technologies<br>🏆 Hackathon enthusiast <br>☁️ Basic knowledge of GCP<br>🚀 Passionate about building user-friendly & scalable web applications</h4>
+<h4 align="left">💬 Ask me about Web Development & Full-Stack Technologies<br>🏆 Hackathon enthusiast <br>☁️ Strong knowledge of GCP<br>🚀 Passionate about building user-friendly & scalable web applications</h4>
 
 ###
 
