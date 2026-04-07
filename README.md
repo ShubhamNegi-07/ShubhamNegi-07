@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=580&lines=Hey+👋+I'm+Shubham+Singh;Full+Stack+Developer+🚀;MERN+%7C+TypeScript+%7C+Cloud" alt="Heading" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Singh;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Cloud" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Singh;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Cloud" />
+  <img alt="Heading" src="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Singh;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Cloud" />
+</picture>
+
 </div>
 
 <img align="right" alt="coding" width="290" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952yil1mq38lhvvytxi4bdv7hys1z3dmt5i5usae85p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
