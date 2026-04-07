@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hey+%F0%9F%91%8B+I'm+Shubham+Singh;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Cloud" />
