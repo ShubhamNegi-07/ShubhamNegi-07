@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋  I'm Shubham Singh</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kablammo&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=580&lines=Hey+👋+I'm+Shubham+Singh;Full+Stack+Developer+🚀;MERN+%7C+TypeScript+%7C+Cloud" alt="Heading" />
+</div>
 
 <img align="right" alt="coding" width="290" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952yil1mq38lhvvytxi4bdv7hys1z3dmt5i5usae85p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
