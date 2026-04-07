@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamnegi07&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamnegi07" /> </p>
 
-<p align="left">📚 I’m currently Learning MERN Stack<br>✨ Building. Breaking. Learning. Repeating<br>🎯 Goals: FAANG-level Software Engineer<br>🎲 Fun fact: I turn complex problems into clean solutions<br>📫 How to reach me : negishubham907@gmail.com</p>
+<h4 align="left">📚 I’m currently Learning MERN Stack<br>✨ Building. Breaking. Learning. Repeating<br>🎯 Goals: FAANG-level Software Engineer<br>🎲 Fun fact: I turn complex problems into clean solutions<br>📫 How to reach me : negishubham907@gmail.com</h4>
 
 ###
 
